@@ -1,3 +1,5 @@
+Adicionamos busca, favoritos e validações na interface. Implementamos a busca dinâmica, utilizando o evento input. Adicionamos funcionalidade de "favoritar" com método PATCH, estilizando o botão. Validamos datas e campos com expressões regulares, e evitamos pensamentos duplicados usando Set.
+
 ![Thumbnail](./thumbnail.png)
 
 # Memoteca
